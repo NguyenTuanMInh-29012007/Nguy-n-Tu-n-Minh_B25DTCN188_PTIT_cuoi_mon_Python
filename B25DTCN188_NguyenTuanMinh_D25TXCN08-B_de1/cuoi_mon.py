@@ -1,6 +1,6 @@
 import json
 
-f = open("Kiem_Tra_Cuoi_Mon_PTIT/data.json", "r", encoding="utf-8")
+f = open("B25DTCN188_NguyenTuanMinh_D25TXCN08-B_de1/data.json", "r", encoding="utf-8")
 player_list = json.load(f)
 f.close()
 
